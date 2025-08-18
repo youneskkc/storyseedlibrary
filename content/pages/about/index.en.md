@@ -32,3 +32,4 @@ Translations credit:
 - Italian - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - French - [Jacky OWL](/authors/jackyowl)
 - Ukrainian - [the lemonaut](/authors/thelemonaut), arg4ntum
+- Arabic (العربية) - [Younes Ben Amara](https://youdo.blog/),
